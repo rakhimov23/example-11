@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.relative {
+    position: relative;
+}
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+.btn {
+    position: fixed;
+    left: 1200px;
+    top: 50%;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
